@@ -1,2 +1,2 @@
 # SSL
-Repo del TP0
+Repositorio de Sintaxis y Semantica de los Lenguajes
