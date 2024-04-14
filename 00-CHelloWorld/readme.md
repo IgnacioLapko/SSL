@@ -1,6 +1,6 @@
 # TP 0
 
-Como primer paso, seguimos las instrucciones de la propia [documentacion]([https://github.com/pandao/editor.md](https://code.visualstudio.com/docs/cpp/config-mingw) "documentacion") de VS Code donde nos guía sobre como instalar y configurar el compilador GCC, y como seleccionarlo dentro de nuestro Visual Studio Code.
+Como primer paso, seguimos las instrucciones de la propia [documentacion](https://code.visualstudio.com/docs/cpp/config-mingw) de VS Code donde nos guía sobre como instalar y configurar el compilador GCC, y como seleccionarlo dentro de nuestro Visual Studio Code.
 
 Antes de seleccionar el compilador que habremos instalado, debemos abrir Visual Studio Code y crear nuestro archivo C en el directorio que deseemos. Una vez creado, debemos copiar el siguiente codigo, que imprimirá en consola "Hello, World!":
 
