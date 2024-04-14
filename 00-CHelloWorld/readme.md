@@ -5,7 +5,6 @@ Como primer paso, seguimos las instrucciones de la propia [documentacion]([https
 Antes de seleccionar el compilador que habremos instalado, debemos abrir Visual Studio Code y crear nuestro archivo C en el directorio que deseemos. Una vez creado, debemos copiar el siguiente codigo, que imprimirá en consola "Hello, World!":
 
 `#include <stdio.h>
-
 int main(){
     printf("Hello, world!\n");
     return 0;
