@@ -13,12 +13,12 @@ Una cadena para la cuál todos sus caracteres son dígitos es Número.
 int esNumero(const char *nro) {
     int i = 0;
     while (nro[i] != '\0'){
-        if (!isdigit(nro[i])){
-            return -1;
+        if (!isdigit((unsigned char)nro[i])){
+            return 0;
         }
         i++;
     }
-    return 0;
+    return 1;
 }
 
 
